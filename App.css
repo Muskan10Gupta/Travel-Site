@@ -1,0 +1,30 @@
+.jumbotron-header{
+  background-color:Gray;
+  text-align:center;
+}
+.jumbotron {
+  border:round;
+  border-style: solid;
+  border-color:black;
+  border-radius:30px;
+  height:400px;
+  width:1100px;
+}
+#jumbo1 {
+  background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR86GarJVJyhGlF6useLRqmYrVNJs1F5zWqNUK9G-jvWRsi3Z3MuQENh8yXDEHpn_J8rL0&usqp=CAU");
+  background-size:1200px 400px;
+}
+#jumbo2 {
+  background-image:url("https://bl.thgim.com/economy/macro-economy/7vylxy/article31801918.ece/alternates/LANDSCAPE_435/7-Contactless-Check-In-Experience");
+  background-size:1200px 400px;
+}
+#jumbo3 {
+  background-image:url("https://c8.alamy.com/comp/EWMP3F/hero-header-image-for-website-background-for-restaurant-or-kitchen-EWMP3F.jpg");
+  background-size:1200px 400px;
+}
+.progress{
+  height: 20px;
+}
+.gold-color {
+  color:gold;
+  }
